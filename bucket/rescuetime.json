@@ -1,5 +1,5 @@
 {
-    "version": "3.4.1.4",
+    "version": "3.4.1.6",
     "description": "Automatic application time-tracking and productive advisor",
     "homepage": "https://www.rescuetime.com",
     "license": {
@@ -9,8 +9,8 @@
     "notes": "Consider installing the RescueTime extension for your browser.",
     "architecture": {
         "64bit": {
-            "url": "https://www.rescuetime.com/installers/RescueTimeInstaller_3.4.1.4.exe",
-            "hash": "55653488ce90f96d1e6b6672f3c2a8f0fed1c117d44d9aaa8c3e14c39c3ea37d"
+            "url": "https://www.rescuetime.com/installers/RescueTimeInstaller_3.4.1.6.exe",
+            "hash": "375b890138f20acfe36dbcdd13593a33a8b6b990eca707a5982701afc1005dd3"
         }
     },
     "innosetup": true,
